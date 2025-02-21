@@ -7,3 +7,4 @@ Just log the books that I have read.
 | 图解TCP/IP（第5版） | https://book.douban.com/subject/24737674/?platform=web |
 | Netty实战 | https://book.douban.com/subject/27038538/ |
 | 图解HTTP | https://book.douban.com/subject/25863515/ |
+| Java性能权威指南（第2版） | https://book.douban.com/subject/35867531/ |
